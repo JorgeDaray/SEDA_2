@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661744917 source:d:\seda 2\compañeros\compañero_mungia\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+

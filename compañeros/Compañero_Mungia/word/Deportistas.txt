@@ -1,0 +1,6 @@
+Sayde 15 Natacion
+Francisco 40 Futbol
+Rafael 16 Voleibol
+Alfredo 65 KickBoxing
+Josue 37 Atletismo
+Arturo 66 Beisbol
