@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668124480 source:d:\seda 2\practicas\practica9_discos\main.c
+	"../extras/Arches.h"
+	"../extras/Funscads.h"
+	"../extras/Tomarc.h"
+
+1668124301 d:\seda 2\practicas\extras\arches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668124302 d:\seda 2\practicas\extras\funscads.h
+	"Arches.h"
+
+1668124301 d:\seda 2\practicas\extras\tomarc.h
+
