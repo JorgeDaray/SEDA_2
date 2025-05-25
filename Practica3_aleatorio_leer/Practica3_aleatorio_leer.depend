@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1663625347 source:d:\seda 2\tareas_entregar\posible_practica2\src\deportista.cpp
+	<cstring>
+	"../include/deportista.h"
+
+1663643776 d:\seda 2\tareas_entregar\posible_practica2\include\deportista.h
+	<cstring>
+	<string>
+
+1663647898 source:d:\seda 2\practicas\practica3_aleatorio_leer\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	"../../tareas_entregar/Posible_practica2/include/deportista.h"
+
+1663625347 source:e:\trabajos_escuela\seda 2\tareas_entregar\posible_practica2\src\deportista.cpp
+	<cstring>
+	"../include/deportista.h"
+
+1663643776 e:\trabajos_escuela\seda 2\tareas_entregar\posible_practica2\include\deportista.h
+	<cstring>
+	<string>
+
+1663649458 source:e:\trabajos_escuela\seda 2\practicas\practica3_aleatorio_leer\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	"../../tareas_entregar/Posible_practica2/include/deportista.h"
+

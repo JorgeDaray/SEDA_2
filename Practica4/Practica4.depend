@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663625347 source:d:\seda 2\tareas_entregar\posible_practica2\src\deportista.cpp
+	<cstring>
+	"../include/deportista.h"
+
+1663643776 d:\seda 2\tareas_entregar\posible_practica2\include\deportista.h
+	<cstring>
+	<string>
+
+1665377496 source:d:\seda 2\practicas\practica4\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	"../../tareas_entregar/Posible_practica2/include/deportista.h"
+

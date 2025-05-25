@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1661183444 source:d:\seda 2\menu_conade(tarea1)\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1661184730 source:d:\seda 2\practicas\menu_conade(tarea1)\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1665462752 source:d:\seda 2\practicas\practica6_pila\libro.cpp
+	"Libro.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+
+1665462752 d:\seda 2\practicas\practica6_pila\libro.h
+	<iostream>
+
+1665462752 source:d:\seda 2\practicas\practica6_pila\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	"Libro.h"
+	"Pila.h"
+	"Nodo.h"
+
+1665460268 source:d:\seda 2\practicas\practica6_pila\nodo.cpp
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+
+1665460267 d:\seda 2\practicas\practica6_pila\nodo.h
+	"Libro.h"
+	<iostream>
+
+1665462749 source:d:\seda 2\practicas\practica6_pila\pila.cpp
+	"Pila.h"
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+	<iomanip>
+
+1665460267 d:\seda 2\practicas\practica6_pila\pila.h
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+	<fstream>
+

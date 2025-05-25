@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1666063349 source:d:\seda 2\practicas\practica7\numerosuerte.cpp
+	"NumeroSuerte.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+
+1666063301 d:\seda 2\practicas\practica7\numerosuerte.h
+	<iostream>
+
+1666063137 source:d:\seda 2\practicas\practica7\nodo.cpp
+	"Nodo.h"
+	"NumeroSuerte.h"
+	<iostream>
+
+1666063046 d:\seda 2\practicas\practica7\nodo.h
+	"NumeroSuerte.h"
+	<iostream>
+
+1666065343 source:d:\seda 2\practicas\practica7\cola.cpp
+	"Cola.h"
+	"Nodo.h"
+	"NumeroSuerte.h"
+	<iostream>
+	<iomanip>
+
+1666065647 d:\seda 2\practicas\practica7\cola.h
+	"Nodo.h"
+	"NumeroSuerte.h"
+	<iostream>
+	<fstream>
+
+1666075700 source:d:\seda 2\practicas\practica7\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	"ColaGenerica.h"
+
+1666073958 d:\seda 2\practicas\practica7\colagenerica.h
+	<iostream>
+	<fstream>
+
