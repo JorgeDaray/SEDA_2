@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666912633 source:d:\seda 2\trabajos\mezcla_directa\main.cpp
+	<iostream>
+	<fstream>
+

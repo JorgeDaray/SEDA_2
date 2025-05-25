@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1665454519 source:d:\seda 2\trabajos\pila_lista_2\nodo.cpp
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+
+1665021384 d:\seda 2\trabajos\pila_lista_2\nodo.h
+	"Libro.h"
+	<iostream>
+
+1665452592 d:\seda 2\trabajos\pila_lista_2\libro.h
+	<iostream>
+
+1665455877 source:d:\seda 2\trabajos\pila_lista_2\pila.cpp
+	"Pila.h"
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+	<iomanip>
+
+1665454904 d:\seda 2\trabajos\pila_lista_2\pila.h
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+	<fstream>
+
+1665455865 source:d:\seda 2\trabajos\pila_lista_2\main.cpp
+	"Pila.h"
+	"Nodo.h"
+	"Libro.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1665453483 source:d:\seda 2\trabajos\pila_lista_2\libro.cpp
+	"Libro.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+
