@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1661962940 source:d:\seda 2\acesso_aleatorio_deportista\main.cpp
+	<iostream>
+	<deportista.h>
+
+1661959312 source:d:\seda 2\acesso_aleatorio_deportista\src\deportista.cpp
+	"deportista.h"
+	<cstdlib>
+	<iostream>
+
+1661964758 d:\seda 2\acesso_aleatorio_deportista\include\deportista.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<cstring>
+
+1662427470 source:d:\seda 2\tareas_entregar\acesso_aleatorio_deportista\src\deportista.cpp
+	"deportista.h"
+	<cstdlib>
+	<iostream>
+
+1662427470 d:\seda 2\tareas_entregar\acesso_aleatorio_deportista\include\deportista.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<cstring>
+
+1662072794 source:d:\seda 2\tareas_entregar\acesso_aleatorio_deportista\main.cpp
+	<iostream>
+	<fstream>
+	<deportista.h>
+
